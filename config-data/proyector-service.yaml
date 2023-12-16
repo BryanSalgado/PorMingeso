@@ -1,2 +1,2 @@
 server:
-  port: proyector-port
+  port: 8082
