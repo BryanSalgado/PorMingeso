@@ -17,6 +17,6 @@ spring:
             allow-credentials: true
       routes:
         - id: proyector-service
-          uri: http://proyector-host:8082
+          uri: http://localhost:8082
           predicates:
             - Path=/proyector/**
